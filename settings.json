@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Sokhita.aternos.me:13459",
-    "port": 27586,
+    "port": 13459,
     "version": "",
     "try-creative": false
   },
